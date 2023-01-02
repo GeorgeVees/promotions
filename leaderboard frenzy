@@ -1,1 +1,551 @@
 
+<!-- -- Register Box Start ---->
+<div class="promoheader">
+  <div class="promogradient-overlay">
+    <div class="body-blend-overlay">
+      <div class="container">
+        <div class="inner">
+
+<div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <div class="cta2">
+          
+          
+          
+
+            <img class="img-responsive" src="
+          https://github.com/GeorgeVees/promotions/blob/main/every-spin-counts-logo.png?raw=true">
+
+          
+             
+          <h2>Top the Leaderboard to win your share of R10,000!</h2>
+              <a href="https://playbet.net/app/en-ZA/sign-up"><button type="button" class="btn btn-light">Register</button></a>
+          <br>
+          <a href="https://playbet.net/app/en-ZA/sign-in">log in</a>
+        </div>
+      </div>
+    </div>
+  </div> </div> </div> </div> </div>
+ </div> 
+<br>       
+ <div class="cta2">  <h2> Participating Games </h2></div>
+<!-- -- Register Box End ---->
+
+
+
+<!-- grid -->
+<div class="slider">
+  
+  
+  <div class="slide"><a href="https://playbet.net/app/en-ZA/slots/8004/game/vs20sbxmas"><img src="https://sa-aardvark-dk3-pragmaticplay-net.advbet.com/game_pic/square/200/vs20sbxmas.png" alt=""></a>  </div>
+    
+    <div class="slide"><a href="
+https://playbet.net/app/en-ZA/slots/8004/game/vs20xmascarol"><img src="https://sa-aardvark-dk3-pragmaticplay-net.advbet.com/game_pic/square/200/vs20xmascarol.png" alt=""></a>  </div>
+  
+      <div class="slide"><a href="
+https://playbet.net/app/en-ZA/slots/8004/game/vs20leprexmas"><img src="https://sa-aardvark-dk3-pragmaticplay-net.advbet.com/game_pic/square/200/vs20leprexmas.png" alt=""></a>  </div>
+  
+        <div class="slide"><a href="
+https://playbet.net/app/en-ZA/slots/8004/game/vs20santa"><img src="https://sa-aardvark-dk3-pragmaticplay-net.advbet.com/game_pic/square/200/vs20santa.png" alt=""></a>  </div>
+
+
+</div><br>
+<!-- end grid -->
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="undertabs">
+  <input type="radio" name="undertabs" id="undertabone" checked="checked">
+  <label for="undertabone">Bonus</label>
+  <div class="undertab">
+    <h1>Pragmatic Play | Leaderboard Frenzy</h1><hr>
+    <p>Top the ladders of our Pragmatic Play Leaderboard Frenzy and win your share of R10,000 this January<br>Promotion ends on 31st of January 2023</p>
+
+ <table>
+  <caption>Leaderboard Prize List</caption>
+  <thead>
+    <tr>
+      <th scope="col">Place</th>
+      <th scope="col">Prize</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="Place">1</td>
+      <td data-label="Prize">R5,000</td>
+    </tr>
+    <tr>
+      <td scope="row" data-label="Place">2</td>
+      <td data-label="Prize">R2,500</td>
+
+    </tr>
+    <tr>
+      <td scope="row" data-label="Place">3</td>
+      <td data-label="Prize">R1,000</td>
+
+    </tr>
+    <tr>
+      <td scope="row" data-label="Place">4-10</td>
+      <td data-label="Prize">R100</td>
+
+    </tr>
+    
+        <tr>
+      <td scope="row" data-label="Place">11-20</td>
+      <td data-label="Prize">R50</td>
+
+    </tr>
+    
+            <tr>
+      <td scope="row" data-label="Place">21-50</td>
+      <td data-label="Prize">R10</td>
+
+    </tr>
+  </tbody>
+</table>
+<style>
+  table {
+  border: 1px solid #525252;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #2a2a2a;
+  border: 1px solid #525252;
+  padding: .35em;
+  color:white;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .95em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border: 3px solid #fac500;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #525252;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+</style>
+  </div>
+  <input type="radio" name="undertabs" id="undertabtwo">
+  <label for="undertabtwo">T's &amp; C's</label>
+  <div class="undertab">
+    <h1>How it works</h1><hr>
+<div>
+    <div>
+
+
+      <h3>Top the leaderboard and win your share of R10,000.</h3>
+      
+
+ <p>Only bets of minimun R2 on participating games qualify towards the leaderboard score. The minimum qualifying bet per spin in order to participate in the tournament is R2. If the minimum bet amount is unavailable, it will be rounded up to the next higher available bet size in the game. </p>   
+       <p>To participate in the tournament, you will have to join or opt in within the Pragmatic participating games, and you will be automatically opted in when you spin on any of the other qualifying games.</p>
+ <p>The Leaderboard Frenzy tournament will run from 1st of December  202210:40 UTC+2 and until the 31st of December 2022 at 23:59 UTC+2. Any wagers placed and settled outside the promotional period will not count towards this promotion.  </p>     
+      
+      <p>  Each win rewards you with a score based on the win multiplier (for example, if you waged R5 and won R 20, you will be rewarded with 20 points). Points received are summed up throughout the Tournament period. </p>
+<p> Only cash wagers on the qualifying games will count (Bonus wagers will not count).</p>
+
+ 
+<p>  The leaderboards are updated in real time and players can view the real time leaderboard in game at any time of their own choosing when playing the participating game(s). </p> 
+ 
+ 
+<p>  If two or more players have the same number of points at the end of the tournament, the player who reached the points first will be ranked higher.</p> 
+ 
+<p>  Only finished spins will qualify for the Leaderboard.</p> 
+ 
+ 
+<p> The Total Prize pool will be as follows:
+Pragmatic Tournament prize pool R 10,000 with 50 winners</p> 
+
+<p>  Prizes will be added to the winners’ accounts within 72 hours from the finalization and acceptance of the tournaments results.</p> 
+ 
+
+ 
+
+
+      
+      
+      
+      
+      
+      
+      
+<p>To enter the competition, register a valid account. </p>
+<p>Duplicate accounts don't qualify for the promotion. Bonus is awarded once per account, person, IP and household. </p>
+<p>Fraudulent accounts and accounts open under false details don't qualify for any promotion. In such case, all winnings and balances will be forfeit.</p>
+<p>In order to participate, the customer must be over the age of 18.</p>
+<p>Playbet reserves the right to revoke this promotion at any time and without cause or notice.</p>
+<p>Playbet reserves the right to change any of its terms and conditions at any time and without cause or notice.</p>
+<p>Every entrant participating in the promotion shall be deemed to have acknowledged and accepted the rules by virtue of their participation.</p>
+<p>This competition is not open to Playbet, employees, managers and their relatives.</p>
+<p>By entering and participating, the entrant agrees to hold harmless, defend and indemnify Playbet from, and against, any and all claims, demands, liability, damages or causes of action (however named or described), losses, costs or expenses, with respect to, or arising out of, or related to (i) entrant’s participation in the Predict and Win, or (ii) entrant’s participation in any prize-related activities, acceptance of a prize and/or use or misuse of a prize (including, without limitation, any property loss, damage, personal injury or death caused to any person(s).</p>
+<p>The winners agree to take part in reasonable post-event publicity and to the use of their names and photographs in such publicity if requested by Playbet.</p>
+<p>WINNERS KNOW WHEN TO STOP. National Responsible Gambling Programme Toll Free Helpline: 0800 006 008</p>
+      <p><a href="https://playbet.net/app/en-ZA/page/legal">Our General T’s &amp; C’s apply.</a></p>
+	 
+</div>
+  </div>  </div>
+  
+  
+<style>
+  
+  .gameslobby {background-image: linear-gradient(to right, #222222, #2d2d2d, #393939, #454545, #525252);
+  }
+.imageGrid {
+  line-height: 0;
+  padding:50px;
+}
+.imageGrid .tile {
+  width:24%;
+  min-height:150px;
+  line-height: 0.2;
+  display:inline-block;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+  color:#fff;
+  cursor: pointer; 
+  cursor: hand;
+}
+
+
+
+.imageGrid .tile .textWrapper {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: .75em;
+}
+
+.imageGrid .tile .textWrapper .content {
+  display: none;
+}
+
+.imageGrid .tile:hover .textWrapper .content {
+  display: block;
+  
+}
+
+.imageGrid .tile:hover .textWrapper .content h2 {
+  margin: 0;
+}
+
+@media (max-width: 1000px) {
+  .imageGrid .tile {
+    width: 49%;
+  }
+ }
+ 
+@media (max-width: 700px) {
+  .imageGrid .tile {
+    width: 100%;
+  }
+  
+  }
+    </style>
+  </div>
+
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+	/** * Tabs */
+ .undertabs {
+	 display: flex;
+	 flex-wrap: wrap;
+}
+ .undertabs label {
+	 order: 1;
+	 display: block;
+	 padding: 1rem 2rem;
+	 margin-right: 0.2rem;
+	 cursor: pointer;
+	 font-weight: bold;
+   background: #cd171e;
+   color:white;
+	 transition: background ease 0.2s;
+}
+ .undertabs .undertab {
+	 order: 99;
+	 flex-grow: 1;
+	 width: 100%;
+	 display: none;
+	 padding: 1rem;
+}
+ .undertabs input[type="radio"] {
+	 display: none;
+}
+ .undertabs input[type="radio"]:checked + label {
+	 background: #fac500;
+}
+ .undertabs input[type="radio"]:checked + label + .undertab {
+	 display: block;
+border:2px solid #fac500;
+}
+ @media (max-width: 45em) {
+	 .undertabs .undertab, .undertabs label {
+		 order: initial;
+	}
+	 .undertabs label {
+		 width: 100%;
+		 margin-right: 0;
+		 margin-top: 0.2rem;
+	}
+}
+#cms-page h1[data-v-39b4f022] {
+    display: none !important;}
+  
+.img-responsive{
+  max-height: 100%;
+  max-width: 100%;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#cms-page h1[data-v-39b4f022] {
+    display: none;
+  }
+
+
+
+.promoheader {
+    position: relative;
+    background-image: url(https://github.com/GeorgeVees/promotions/blob/main/swbx_basegame_bg.jpg?raw=true);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .promoheader .body-blend-overlay {
+    height: 100%;
+    padding:35px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #222);
+  }
+
+  .promoheader .promogradient-overlay {
+    height: 100%;
+    background: rgba(150, 0, 175, 0.9);
+    background: linear-gradient(145deg, rgba(150, 0, 175, 0.9) 0%, rgba(26, 11, 133, 0.9) 59%, rgba(52, 51, 70, 0.9) 100%);
+    color: #FFF;
+  }
+
+
+  .promoheader .promogradient-overlay .inner h1 {
+    text-transform: uppercase;
+    font-size: 42px;
+    font-weight: 700;
+    
+  }
+
+  .promoheader .promogradient-overlay .inner p {
+    margin-top: -8px;
+    font-size: 22px;
+
+  }
+
+
+
+.cta2{
+text-align: center;
+}
+
+.cta2 h2 {
+    font-size: 3.2em;
+    color: #fff;
+    letter-spacing: -4px;
+
+
+}
+.cta2 p{
+  font-size:2em;
+  font-weight: 200;
+  color: #a2a2a2;
+  letter-spacing: -1px;
+}
+.cta2 .btn-light{
+    background-color: #cd171e;
+    min-width: 220px;
+    height: 50px;
+    border: 0;
+    font-size: 20px;
+    border-radius: 2em;
+    color: #fff;
+}
+.cta2 .btn-light:hover{
+    font-size: 25px;
+}
+
+.cta2 a{
+  font-size:0.8em;
+  display: inline-block;
+  margin-top: 10px;
+  color: #9fa3a7;
+}
+.cta2 a:hover{
+text-decoration: none;
+  
+}
+@media screen and (max-width:600px){
+  body{
+    font-size: 12px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+.slider {
+  display: grid;
+  grid-auto-flow: column;
+  gap: .3rem;
+  overflow-x: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  cursor: grab;
+  margin-top: 5rem;
+  padding-inline: 1rem;
+}
+   
+.slider::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #222;
+
+}
+
+.slider::-webkit-scrollbar {
+	background-color: #cd171e;
+    height:10px;
+
+ }
+.slider::-webkit-scrollbar-thumb{
+	background-color: #cd171e;
+  border-radius:33px;
+  }
+
+  
+
+  
+.slide img {
+  inline-size: 100%;
+  object-fit: cover;
+  border-radius: .2rem;
+  background:2a388f;
+}
+@media (max-width: 440px) {
+  h2 {
+    font-size: 1.2rem;
+  }
+  .slider {
+    grid-auto-columns:60%;
+    
+  }
+}
+  @media (max-width: 640px) {
+  h2 {
+    font-size: 1.1rem;
+  }
+  .slider {
+    grid-auto-columns:42%;
+    min-width:220px;
+    
+  }
+}
+  .slide img:hover {
+    zoom:130%;
+  }
+</style>
